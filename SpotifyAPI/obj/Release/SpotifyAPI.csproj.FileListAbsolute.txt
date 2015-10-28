@@ -1,0 +1,9 @@
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\SpotifyAPI.dll.config
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\SpotifyAPI.XML
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\SpotifyAPI.dll
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\SpotifyAPI.pdb
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\obj\Release\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\obj\Release\SpotifyAPI.dll
+C:\Users\Johnny\Documents\Visual Studio 2015\Projects\spotify-shut-up\SpotifyAPI\obj\Release\SpotifyAPI.pdb
